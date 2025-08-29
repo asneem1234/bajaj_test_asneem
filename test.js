@@ -1,7 +1,5 @@
-// test.js - Simple test script for the API
 const fetch = require('node-fetch');
 
-// Test cases from the problem statement
 const testCases = [
   {
     data: ["a", "1", "334", "4", "R", "$"]
@@ -13,8 +11,6 @@ const testCases = [
     data: ["A", "ABcD", "DOE"]
   }
 ];
-
-// Function to make a POST request
 async function testAPI(testData) {
   try {
     const response = await fetch('http://localhost:3000/bfhl', {
@@ -35,7 +31,6 @@ async function testAPI(testData) {
   }
 }
 
-// Run tests
 async function runTests() {
   console.log('Running API tests...');
   console.log('------------------------------');
