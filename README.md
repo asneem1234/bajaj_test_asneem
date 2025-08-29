@@ -2,7 +2,7 @@
 
 Hey there! ðŸ‘‹ I'm ASNEEM ATHAR SHAIK, and this is my implementation of the Bajaj Finserv array processing API challenge.
 
-**ðŸ’» Live API: [https://bajaj-test-asneem.vercel.app/bfhl](https://bajaj-test-asneem.vercel.app/bfhl)**
+** Live API: [https://bajaj-test-asneem.vercel.app/bfhl](https://bajaj-test-asneem.vercel.app/bfhl)**
 
 I built this REST API that takes arrays and transforms them in various ways - separating numbers, finding odd/even values, handling special characters, and more!
 
@@ -82,19 +82,19 @@ Here's what I used to build this project:
 
 With my background in web development, I implemented this API using a systematic approach:
 
-1. **Problem Analysis** ï¿½: Thoroughly analyzed the requirements and leveraged my knowledge of REST APIs to design a robust solution. The clear breakdown of requirements made implementation straightforward.
+1. **Problem Analysis** : Thoroughly analyzed the requirements and leveraged my knowledge of REST APIs to design a robust solution. The clear breakdown of requirements made implementation straightforward.
 
-2. **Strategic Planning** ðŸ”: Applied established best practices for API design based on my previous experience with Node.js and Express. Created a plan that would lead to clean, maintainable code.
+2. **Strategic Planning** : Applied established best practices for API design based on my previous experience with Node.js and Express. Created a plan that would lead to clean, maintainable code.
 
-3. **Efficient Implementation** ðŸ’»: Built the solution methodically, using my proficiency with regular expressions and array manipulation to handle the data processing requirements. My familiarity with JavaScript ES6+ features made the development process smooth.
+3. **Efficient Implementation** : Built the solution methodically, using my proficiency with regular expressions and array manipulation to handle the data processing requirements. My familiarity with JavaScript ES6+ features made the development process smooth.
 
-4. **Technical Problem-Solving** ðŸ§©: Easily addressed challenges in string processing and data manipulation by applying well-established patterns I've used in previous projects.
+4. **Technical Problem-Solving** : Easily addressed challenges in string processing and data manipulation by applying well-established patterns I've used in previous projects.
 
-5. **Thorough Testing** âœ…: Implemented comprehensive test cases using industry-standard validation techniques to ensure the solution meets all requirements precisely.
+5. **Thorough Testing**: Implemented comprehensive test cases using industry-standard validation techniques to ensure the solution meets all requirements precisely.
 
-6. **Streamlined Deployment** ðŸŒ: Deployed to Vercel using best practices for Node.js applications. My experience with various deployment platforms made this process straightforward.
+6. **Streamlined Deployment** : Deployed to Vercel using best practices for Node.js applications. My experience with various deployment platforms made this process straightforward.
 
-7. **Professional Documentation** ðŸ“: Created clear, comprehensive documentation following industry standards for readability and completeness.
+7. **Professional Documentation** : Created clear, comprehensive documentation following industry standards for readability and completeness.
 
 This implementation demonstrates my established skills in full-stack development, particularly in building and deploying RESTful APIs.
 
