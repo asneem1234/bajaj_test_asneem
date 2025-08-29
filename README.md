@@ -87,12 +87,18 @@ This project demonstrates my proficiency with:
 
 ## Deployment
 
-This API is ready for deployment on various cloud platforms:
+This API has been deployed on Vercel and is live at:
 
-- **Vercel**: Optimized with vercel.json for serverless deployment
+**Live API URL:** https://bajaj-test-asneem.vercel.app/bfhl
+
+You can test it by sending POST requests to this endpoint with the required data format.
+
+The API is also configured for deployment on other cloud platforms:
 - **Railway**: Ready for containerized deployment
 - **Render**: Configured for web service deployment
 - **Heroku**: Set up with Procfile for easy deployment
+
+See the `VERCEL_DEPLOYMENT.md` file for more details about the deployment and testing information.
 
 ## Testing
 
